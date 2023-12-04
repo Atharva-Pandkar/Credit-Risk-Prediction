@@ -38,4 +38,4 @@ The correlation matrix reveals varying degrees of linear relationships between d
 - Challenges: Model bias, overfitting, and the dynamic nature of financial markets.
 
 ## References
-- Detailed references can be found in the accompanying PDF document.
+- Detailed references can be found in the Accessing Credit Risk in the Financial Sector document.
